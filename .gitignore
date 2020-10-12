@@ -1,0 +1,9 @@
+labels/
+models/
+log_dir/
+test_img/
+out_vid/
+out_frames/
+test_masks/
+__pycache__/
+.ipynb_checkpoints/
